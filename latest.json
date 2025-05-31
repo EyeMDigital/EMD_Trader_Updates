@@ -1,8 +1,8 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "download_url": "https://drive.google.com/file/d/1pj2UcOwFrMlRThjxgFyusTPwzU8Cjyk1/view?usp=drive_link",
   "notes": [
     "Initial release.",
-    "Supports auto-trade on EURS/USDC."
+    "Testing modal info update."
   ]
 }
