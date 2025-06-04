@@ -1,9 +1,9 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.2",
   "download_url": "https://www.eyemdigital.com/uploads/EMD_Trader_v2.exe",
   "notes": [
-    "Click Update button below. Close your browser. When the console closes, the version is updated. Restart the exe to launch new version",
-    "Initial release.",
-    "Testing modal info update. Looks good. Full run test"
+    "Click Update button below. When the app closes, the version is updated. Restart the exe to launch new version",
+    "Fixed issue with broken Vestige API for asset metadata",
+    "Added Vestige chart to Auto-Trade module"
   ]
 }
