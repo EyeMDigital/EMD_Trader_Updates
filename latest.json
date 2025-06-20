@@ -1,9 +1,9 @@
 {
-  "version": "2.0.2",
+  "version": "2.0.3",
   "download_url": "https://www.eyemdigital.com/uploads/EMD_Trader_v2.exe",
   "notes": [
-    "Click Update button below. When the app closes, the version is updated. Restart the exe to launch new version",
-    "Fixed issue with broken Vestige API for asset metadata",
-    "Added Vestige chart to Auto-Trade module"
+    "Added $ALPHA as a supported asset per user request",
+    "Repaired issue with asset sell logging swapped asset amounts in Auto-trade logs",
+    "Fixed goBTC value in USDC display in Auto-trade settings"
   ]
 }
