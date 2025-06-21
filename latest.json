@@ -1,9 +1,11 @@
 {
-  "version": "2.0.3",
+  "version": "2.1.1",
   "download_url": "https://www.eyemdigital.com/uploads/EMD_Trader_v2.exe",
   "notes": [
     "Added $ALPHA as a supported asset per user request",
     "Repaired issue with asset sell logging swapped asset amounts in Auto-trade logs",
-    "Fixed goBTC value in USDC display in Auto-trade settings"
+    "Fixed goBTC value in USDC display in Auto-trade settings",
+    "Add warning and options if removing a wallet that has assets/trading configurations",
+    "Implementing the DeFi module. Full quoting capability for any ASAs through Folks Router. Swaps, DCA, and limit orders to come"
   ]
 }
